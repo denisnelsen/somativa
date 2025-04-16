@@ -33,7 +33,7 @@ jobs:
 
 
   docker:
-    runs-on: ubunntu-latest
+    runs-on: ubuntu-latest
     steps:
       -
         name: Checkout
