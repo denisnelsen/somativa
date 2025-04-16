@@ -36,5 +36,5 @@ jobs:
         with:
           context: .
           push: true         
-          tags: app:latest
+          tags: denisnelsen/app:latest
 
