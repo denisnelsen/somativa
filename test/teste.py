@@ -1,3 +1,0 @@
-from scr.main import *
-
-
